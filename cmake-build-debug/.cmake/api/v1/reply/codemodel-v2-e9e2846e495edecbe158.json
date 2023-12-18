@@ -1,0 +1,201 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "FreePoints-/examples",
+					"jsonFile" : "directory-FreePoints-.examples-Debug-6f14bb17775a2a8986e7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "FreePoints-/examples",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HelloSFML",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "examples",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "00-showcase::@c79c2166af2d6d97fe96",
+					"jsonFile" : "target-00-showcase-Debug-b40c04b90fdf80f67aa2.json",
+					"name" : "00-showcase",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "01-model::@c79c2166af2d6d97fe96",
+					"jsonFile" : "target-01-model-Debug-696064b0e9b2174953a4.json",
+					"name" : "01-model",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "02-completion::@c79c2166af2d6d97fe96",
+					"jsonFile" : "target-02-completion-Debug-13a742bf1199af1e0b81.json",
+					"name" : "02-completion",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "03-edit::@c79c2166af2d6d97fe96",
+					"jsonFile" : "target-03-edit-Debug-22341f617a9f5f2fa6de.json",
+					"name" : "03-edit",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "04-image::@c79c2166af2d6d97fe96",
+					"jsonFile" : "target-04-image-Debug-811302124fca8ee4e31f.json",
+					"name" : "04-image",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "05-embedding::@c79c2166af2d6d97fe96",
+					"jsonFile" : "target-05-embedding-Debug-83bee92a7f53ea7ccaf0.json",
+					"name" : "05-embedding",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "06-file::@c79c2166af2d6d97fe96",
+					"jsonFile" : "target-06-file-Debug-34463924c4f1744b114b.json",
+					"name" : "06-file",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "07-fine-tune::@c79c2166af2d6d97fe96",
+					"jsonFile" : "target-07-fine-tune-Debug-57c736c87efee3e49af2.json",
+					"name" : "07-fine-tune",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "09-instances::@c79c2166af2d6d97fe96",
+					"jsonFile" : "target-09-instances-Debug-bc2955fe754136063e67.json",
+					"name" : "09-instances",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "10-chat::@c79c2166af2d6d97fe96",
+					"jsonFile" : "target-10-chat-Debug-b81ee83079363b522540.json",
+					"name" : "10-chat",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "11-audio::@c79c2166af2d6d97fe96",
+					"jsonFile" : "target-11-audio-Debug-0b5013cc20c885eab083.json",
+					"name" : "11-audio",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "12-moderation::@c79c2166af2d6d97fe96",
+					"jsonFile" : "target-12-moderation-Debug-387f42c8a7757d0d4f31.json",
+					"name" : "12-moderation",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloSFML::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloSFML-Debug-4ef6e7af3f34f943ec1a.json",
+					"name" : "HelloSFML",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nealrangarajan/CLionProjects/HelloSFML/cmake-build-debug",
+		"source" : "/Users/nealrangarajan/CLionProjects/HelloSFML"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

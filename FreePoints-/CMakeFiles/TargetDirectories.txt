@@ -1,0 +1,3 @@
+/Users/sumanth/CLionProjects/freepoints/CMakeFiles/HelloSFML.dir
+/Users/sumanth/CLionProjects/freepoints/CMakeFiles/edit_cache.dir
+/Users/sumanth/CLionProjects/freepoints/CMakeFiles/rebuild_cache.dir

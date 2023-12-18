@@ -1,0 +1,4 @@
+Cannot generate into /Users/nealrangarajan/FreePoints-
+It is already used for project /Users/sumanth/CLionProjects/freepoints
+
+Please either delete it manually or select another generation directory

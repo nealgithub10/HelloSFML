@@ -1,0 +1,3 @@
+/Users/nealrangarajan/Downloads/openai-cpp-main/include/openai/cmake-build-debug/CMakeFiles/openai.dir
+/Users/nealrangarajan/Downloads/openai-cpp-main/include/openai/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nealrangarajan/Downloads/openai-cpp-main/include/openai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
